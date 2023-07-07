@@ -1,0 +1,33 @@
+body {
+    padding: 2em;
+    font: 2em "Consolas", Helvetica, Arial, sans-serif;
+    background-color: #F0FFFF;
+}
+
+table {
+    width: 100%;
+    text-align: left;
+    background-color: #E0F4FF;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #0B6FA4;
+    color: white;
+}
+
+th, td {
+    padding: 10px;
+}
+
+tr:nth-child(even) {
+    background-color: #D0E4F5;
+}
+
+a {
+    color: #0B6FA4;
+}
+
+.user {
+    color: blue
+}
